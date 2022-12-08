@@ -7,3 +7,6 @@ O pacote de instalação do Docker disponível no repositório oficial do Ubuntu
 
 Primeiro, atualize sua lista existente de pacotes. Passo a passo: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04-pt
 
+Executar docker wsl 
+https://cursos.alura.com.br/forum/topico-cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker-daemon-running-218791
+
